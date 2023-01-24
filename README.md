@@ -1,3 +1,2 @@
 # Kaws
-IES Manacor. Aplicacions Webd
-dsada
+IES Manacor. Aplicacions Web
