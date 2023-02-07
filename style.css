@@ -33,3 +33,9 @@
    li a:hover {
        background-color: rgb(143, 143, 143);
    }
+
+   .footer {
+       background-color: #919191;
+       padding: 10px;
+       text-align: center;
+   }
