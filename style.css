@@ -51,3 +51,10 @@
 .Varsity a:hover {
 image-resolution: 50%;
 }
+table, th, td {
+    border:1px solid black;
+  }
+
+  a{
+    color: Black;
+  }
